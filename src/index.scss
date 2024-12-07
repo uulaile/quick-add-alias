@@ -1,0 +1,25 @@
+
+#footnote-protyle-container.protyle {
+    min-height: 100% !important;
+
+}
+
+
+#footnote-protyle-container.protyle .protyle-content {
+    padding-bottom: 0px !important;
+}
+
+#footnote-protyle-container.protyle .protyle-wysiwyg {
+    width: 100%;
+    min-height: 100%;
+    box-sizing: border-box;
+    padding: 16px 0px 0px 0px !important;
+    background: var(--b3-theme-background);
+    color: var(--b3-theme-on-background);
+
+}
+
+#footnote-protyle-container.protyle .protyle-wysiwyg>div:first-child {
+    border: 1px solid var(--b3-theme-on-background);
+    border-radius: 0px;
+}

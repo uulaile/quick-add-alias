@@ -1,0 +1,45 @@
+{
+  "name": "quick-add-alias",
+  "author": "uulaile",
+  "url": "https://github.com/uulaile/quick-add-alias",
+  "version": "0.0.1",
+  "minAppVersion": "3.1.13",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin",
+    "docker",
+    "ios",
+    "android"
+  ],
+  "frontends": [
+    "desktop",
+    "mobile",
+    "browser-desktop",
+    "browser-mobile",
+    "desktop-window"
+  ],
+  "displayName": {
+    "en_US": "quick add alias",
+    "zh_CN": "快速加别名"
+  },
+  "description": {
+    "en_US": "quick add alias",
+    "zh_CN": "快速加上块的别名"
+  },
+  "readme": {
+    "en_US": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "custom": [
+      ""
+    ]
+  },
+  "keywords": [
+    "别名",
+    "alias",
+    "备注",
+    "Memo"
+  ]
+}
