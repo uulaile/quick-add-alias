@@ -2,7 +2,7 @@
   "name": "quick-add-alias",
   "author": "uulaile",
   "url": "https://github.com/uulaile/quick-add-alias",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minAppVersion": "3.1.13",
   "backends": [
     "windows",
